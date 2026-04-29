@@ -1,0 +1,13 @@
+[Unit]
+Description=DiskWala Ultimate
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/root/diskwala-ultimate
+ExecStart=/usr/bin/python3 server.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
