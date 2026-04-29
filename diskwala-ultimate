@@ -1,0 +1,16 @@
+diskwala-ultimate/
+│── server.py
+│── config.py
+│── requirements.txt
+│── extractor/
+│   ├── main.py
+│   ├── diskwala.py
+│── services/
+│   ├── cache.py
+│   ├── metadata.py
+│   ├── caption.py
+│── web/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│── diskwala.service
