@@ -1,5 +1,5 @@
-API_ID = 12345
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = 34446649
+API_HASH = "8dc570c08d8e35e88fb9bfc73c65d7fa"
+BOT_TOKEN = "8602719743:AAFu2J4o6UedCbrVnDdcCvn5DITPuzNEZZw"
 
-DOMAIN = "http://yourdomain.com"
+DOMAIN = ""
